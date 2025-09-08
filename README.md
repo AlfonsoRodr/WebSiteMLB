@@ -8,3 +8,6 @@ You can access the website by clicking on the following link: https://alfonsorod
 
 ## Login
 The login form has been created
+
+## Validation
+Validations have been applied.
